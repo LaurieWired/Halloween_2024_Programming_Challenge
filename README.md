@@ -14,7 +14,7 @@ Kurisu has turned to you, the future depends on your ingenuity.  The CAPTCHA mus
 
 
 ## 🎯 Objective
-Create a modern CAPTCHA system for the future.  Anything goes.  CAPTCHAs can be image or text-based.
+Create a modern CAPTCHA system for the future.  Anything goes.
 
 Use the programming language of your choice.
 
