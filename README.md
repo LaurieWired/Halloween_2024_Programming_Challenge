@@ -4,7 +4,7 @@
 
 **Have you ever wanted your code roasted on a LaurieWired Youtube video?  Do you like Steins;Gate and think your personal captcha system outclasses decades of reverse-turing research? Do you also enjoy custom, low-quality prizes?  Here's your chance!**
 
-## Background
+## 🔮 Background
 
 Kurisu Makise has reappeared from the year 2038 to your current worldline.  According to her, the only thing standing between CERN and total domination by their new AI system is...
 
@@ -13,7 +13,7 @@ A new kind of CAPTCHA.
 Kurisu has turned to you, the future depends on your ingenuity.  The CAPTCHA must be difficult enough to baffle the AI, yet solvable by the average human.
 
 
-## Objective
+## 🎯 Objective
 Create a modern CAPTCHA system for the future.  Anything goes.  CAPTCHAs can be image or text-based.
 
 Use the programming language of your choice.
